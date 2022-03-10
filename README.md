@@ -1,2 +1,4 @@
 # screenDemo
 iOS12以上使用ReplayKit录屏保存MP4到本地存储的简单demo
+
+项目正常运行需要登录自己的apple账户，更改App的bundleID, 添加AppGroup.
